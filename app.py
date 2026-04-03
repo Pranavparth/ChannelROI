@@ -8,9 +8,9 @@ from src.attribution_models import prep_user_paths, calculate_heuristic_models
 from src.predictive_models import BudgetSimulator
 
 # Page config
-st.set_page_config(page_title="Marketing Optimization Platform", layout="wide")
+st.set_page_config(page_title="ChannelROI", layout="wide")
 
-st.title("📈 Marketing Attribution & Budget Optimization Platform")
+st.title("📈 ChannelROI: Attribution & Budget Simulator")
 
 # 1. Load Data
 @st.cache_data

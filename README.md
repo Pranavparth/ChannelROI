@@ -1,4 +1,4 @@
-# Marketing Attribution & Budget Optimization Platform
+# ChannelROI
 
 This repository contains a full-stack marketing analytics platform built with Python, Scikit-learn, XGBoost, and Streamlit. It answers key marketing questions regarding channel ROIs, attribution models, and conversion lift, while also featuring an interactive budget allocation simulator.
 
